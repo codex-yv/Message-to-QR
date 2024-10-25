@@ -1,0 +1,37 @@
+
+=================================== PHASE--1>INSTALLATION =================================== 
+1) Make sure that python is installed on your PC/laptop
+    if not then see how to install it from the link:-
+    --link--  https://www.youtube.com/watch?v=TNAu6DvB9Ng
+
+    WARNING:- Don't use video link to download python, because the code supports python version 3.10 
+              to download this version click on the link below:
+              --for 64 bit windows:- https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+
+                                    or
+    if you have already downloaded the other/latest version of python then:
+
+        NO WORRIES WE WILL HANDLE IT IN PHASE 2
+
+=================================== PHASE--2> SETUP =================================== 
+
+1) Go the folder "Message to QR"
+
+2) click on the path search--> remove the current path-->> type "cmd" and press enter
+
+>>>>>>>>>>>>Your command prompt will open>>>>>>>>>>>>>>>>>>
+
+4) make sure that you are connected to the internet.
+5) in cmd prompt type:
+        py  setup1.py  (Note:-Satisfy all the versions of python)
+
+>>>>>>>>>>>>it will start the setup of first phase:do not disturb it >>>>>>>>>>>>>>>>>>>>
+
+
+=================================== PHASE--3> USE THE APP =================================== 
+
+
+1)in cmd prompt type:
+        py main.py  (Note:-Satisfy all the versions of python)
+
+-----------Enjoy the app------------------
