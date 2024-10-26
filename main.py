@@ -62,7 +62,8 @@ def regen():
 def svimg():
     if len(fname.get().strip()+".png")>4:
         name=fname.get().strip()+".png"
-        img_path = os.path.join("C:\\Users\\kumkum\\Desktop\\Message to QR\\QR codes",name)
+        path=os.getcwd()+"\QR codes"
+        img_path = os.path.join(path,name)
         file.save(img_path)
         messagebox.showinfo("File info", "Image saved successfully.")
     else:
